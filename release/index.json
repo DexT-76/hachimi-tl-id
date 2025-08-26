@@ -1,4 +1,15 @@
 {
   "version": "0.1",
-  "files": []
+  "files": [
+    {
+      "path": "story/translated_story.json",
+      "size": 80,
+      "hash": "dummyhash123"
+    },
+    {
+      "path": "ui/translated_ui.json",
+      "size": 90,
+      "hash": "dummyhash456"
+    }
+  ]
 }
